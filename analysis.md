@@ -10,3 +10,4 @@ Instructions:
 2. Click the `Undo / Redo` tab > `Apply` and paste in the contents of the data_cleaning_script.txt file you just created with the JSON code.
 3. Click `Perform operations`. The dataset should now be the same as your other cleaned dataset.
 4. Save the dataset as "samples_open.csv
+5. 
